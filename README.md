@@ -41,4 +41,3 @@ tendrán asignados estructuras HashMap en los cuales guardaremos la información
 ### Relaciones:
 
 <img width="720px" src="/img/relaciones.png">
-
