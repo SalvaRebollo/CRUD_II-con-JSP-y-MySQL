@@ -1,4 +1,3 @@
-# *En CONSTRUCCIÓN*
 # CRUD II con JSP y MySQL
 Salvador Rebollo Benítez.
 
